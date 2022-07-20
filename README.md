@@ -66,7 +66,7 @@ Poem #4
 
 Because these words are equally separated in space, they have no meaning taken as a whole. In other words, there is no "category" into which you could place all four words (try to do it!). But looking at each of the four sets of three evokes the gentlest of patterns. 
 
-The tetrahedron is an elegant kind of poetry, almost a haiku, and it is completely computationally generated.
+So the tetrahedron is an elegant kind of poetry, almost a haiku. And it is completely computationally generated.
 
 ## How to Use
 
